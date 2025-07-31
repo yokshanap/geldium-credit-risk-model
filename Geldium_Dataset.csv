@@ -1,0 +1,11 @@
+Customer_ID,Age,Income,Credit_Score,Credit_Utilization,Missed_Payments,Delinquent_Account,Loan_Balance,Debt_to_Income_Ratio,Employment_Status,Account_Tenure,Credit_Card_Type,Location,Month_1,Month_2,Month_3,Month_4,Month_5,Month_6
+CUST_1,25,45000.0,650,45.0,1,0,15000,35,Employed,3,Gold,Delhi,0,0,1,0,0,1
+CUST_2,34,56000.0,700,55.0,0,0,12000,28,Self-Employed,6,Platinum,Mumbai,1,1,0,1,1,0
+CUST_3,45,,620,98.0,3,1,20000,50,Unemployed,2,Standard,Delhi,2,2,2,2,2,2
+CUST_4,52,72000.0,710,,2,0,18000,40,Employed,8,Gold,Bangalore,0,0,0,0,0,0
+CUST_5,23,39000.0,580,87.0,5,1,22000,55,Unemployed,1,Standard,Delhi,2,1,2,2,1,2
+CUST_6,31,50000.0,680,64.0,0,0,11000,30,Employed,5,Platinum,Mumbai,0,0,0,0,0,0
+CUST_7,40,61000.0,730,33.0,1,0,13000,25,Self-Employed,7,Gold,Bangalore,0,0,1,0,0,1
+CUST_8,60,,640,102.0,4,1,25000,60,Unemployed,4,Standard,Chennai,1,2,1,1,2,1
+CUST_9,28,47000.0,610,50.0,3,1,16000,42,Employed,3,Gold,Delhi,2,2,2,1,2,2
+CUST_10,33,53000.0,675,,2,0,14000,33,Employed,6,Platinum,Mumbai,0,1,0,0,1,0
